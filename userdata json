@@ -28,5 +28,11 @@
         "key": "HXKEY",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7dfa23b9ae1fe6e6",
+        "key": "HC",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
     }
 ]
